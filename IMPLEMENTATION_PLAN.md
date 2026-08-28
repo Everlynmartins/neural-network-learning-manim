@@ -38,7 +38,7 @@ Preservar a animação original e criar uma segunda versão vertical, com no má
 
 ## Publicação técnica no GitHub — 2026-08-28
 
-Status: preparação local concluída; publicação remota em andamento.
+Status: concluído em 2026-08-28 — repositório público, artefatos e documentação verificados.
 
 ### Escopo público
 
@@ -51,4 +51,4 @@ Publicar somente os componentes da animação NumPy sobre treinamento de redes n
 3. [Concluído] Criar um README técnico com modelo matemático, arquitetura 2–8–1, resultados numéricos, instalação, reprodução e limitações.
 4. [Concluído] Criar um notebook intercalando explicação, fórmulas e código executável baseado no módulo real de treinamento.
 5. [Concluído] Validar sintaxe, treinamento, gradientes, notebook, links relativos, mídia e ausência de termos proibidos no conjunto que será versionado.
-6. [Em andamento] Atualizar o changelog, revisar o índice Git, criar um commit focado e publicar em um repositório público.
+6. [Concluído] Atualizar o changelog, revisar o índice Git, criar commits focados e publicar em um repositório público.
