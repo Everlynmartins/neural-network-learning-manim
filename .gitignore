@@ -1,0 +1,24 @@
+.venv/
+.tinytex/
+TinyTeX-1-windows.exe
+media/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# Referências e experimentos locais fora do escopo público deste repositório.
+references/
+algorithm_walkthrough.py
+example.py
+fundamental_theorem_calculus.py
+latex_smoke_test.py
+neural_network_learning_latex.py
+poisson_weibull_connection.py
+render_neural_network.ps1
+transformer_scene.py
+user_guide_demo.py
