@@ -26,7 +26,7 @@ Todas as alterações relevantes deste projeto são registradas neste arquivo.
 - Maior erro relativo de gradiente igual a 1,533 × 10⁻⁹.
 - Notebook executado integralmente sem erros.
 - Vídeo final com 1080 × 1350, 60 FPS, 8.854 quadros e 147,567 segundos.
-- Publicação pública conferida em `Everlinmart/neural-network-learning-manim`, incluindo código, notebook, imagens, vídeo e automação de validação.
+- Publicação pública conferida em `Everlynmartins/neural-network-learning-manim`, incluindo código, notebook, imagens, vídeo e automação de validação.
 
 ## [0.2.0] — 2026-08-27
 
