@@ -1,4 +1,4 @@
 manim==0.21.0
-numpy==2.5.2
+numpy==2.5.4
 av==18.1.0
 Pillow==12.3.0
